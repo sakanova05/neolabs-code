@@ -1,0 +1,5 @@
+def students(**data):
+    for name, grade in data.items():
+        print (f"Имя: {name}, Оценка: {grade}")
+
+

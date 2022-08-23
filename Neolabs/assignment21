@@ -1,0 +1,2 @@
+def student(**data):
+    for key, value in
